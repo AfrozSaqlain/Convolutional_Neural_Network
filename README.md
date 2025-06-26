@@ -5,4 +5,4 @@
 
 There's one error after I updated the generation code: 
 `ERROR: the A22 peak time is negative, dynamics is too short
-ERROR(TEOBResumS): ringdown failed.`
+ERROR(TEOBResumS): ringdown failed.`. Maybe we need to tighten the component mass constraints.
